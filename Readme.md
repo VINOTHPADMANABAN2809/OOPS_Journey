@@ -31,8 +31,8 @@ Welcome to my **Java Object-Oriented Programming (OOPs)** learning journey! This
 
 ## 📈 Progress Tracker
 
-| Concept              | Status           |
-|----------------------|------------------| `
+| Concept              | Status         |
+|----------------------|----------------| 
 | Classes & Objects     | ✅ Completed   |
 | Constructors          | 🔄 In Progress |
 | Inheritance           | 🔄 In Progress |
