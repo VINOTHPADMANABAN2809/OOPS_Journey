@@ -6,13 +6,13 @@ Welcome to my **Java Object-Oriented Programming (OOPs)** learning journey! This
 
 ## 🔍 Topics Covered
 
-- ⏳ **Classes and Objects**
-- ⏳ **Constructors & Overloading**
-- ⏳ **Inheritance**
-- ⏳ **Method Overriding and Polymorphism**
-- ⏳ **Abstraction (Abstract Classes & Methods)**
-- ⏳ **Encapsulation**
-- ⏳ **Interfaces**
+- ✅ **Classes and Objects**
+- ✅ **Constructors & Overloading**
+- ✅ **Inheritance**
+- ✅ **Method Overriding and Polymorphism**
+- ✅ **Abstraction (Abstract Classes & Methods)**
+- ✅ **Encapsulation**
+- ✅ **Interfaces**
 - ⏳ **Static Keyword**
 - ⏳ **‘this’ and ‘super’ Keywords**
 - ⏳ **Inner Classes**
@@ -34,15 +34,15 @@ Welcome to my **Java Object-Oriented Programming (OOPs)** learning journey! This
 | Concept              | Status         |
 |----------------------|----------------| 
 | Classes & Objects     | ✅ Completed   |
-| Constructors          | 🔄 In Progress |
-| Inheritance           | 🔄 In Progress |
-| Polymorphism          | 🔄 In Progress |
-| Abstraction           | 🔄 In Progress |
-| Encapsulation         | 🔄 In Progress |
-| Interfaces            | 🔄 In Progress |
+| Constructors          | ✅ In Progress |
+| Inheritance           | ✅ In Progress |
+| Polymorphism          | ✅ In Progress |
+| Abstraction           | ✅ In Progress |
+| Encapsulation         | ✅ In Progress |
+| Interfaces            | ✅ In Progress |
 | Static, This, Super   | 🔄 In Progress |
 | Inner Classes         | 🔄 In Progress |
-| OOP Projects          | 🔄 In Progress |
+| OOP Projects          | ✅ In Progress |
 | Real-Time Examples    | ✅ Completed   |
 
 ---
